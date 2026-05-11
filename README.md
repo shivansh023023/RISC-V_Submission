@@ -1,6 +1,7 @@
 # RISC-V_Submission
 # RISC-V ACT Framework Mentorship Challenge - UART Interface
 
+
 This repository contains my solution for the LFX Mentorship coding challenge: configuring and communicating over a UART interface on Linux using the `termios` API.
 
 ## Implementation Details
